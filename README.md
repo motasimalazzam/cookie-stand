@@ -10,12 +10,12 @@ and I displayed working hours and the potential number of cookies sold per hour,
 
 * How did this go, overall?
 
-  - I encountered some difficulty in dealing with objects, especially in creating arrays with a four-loop statement. On the dom side, the topic was a bit like a puzzle, where the thought was about which element is the father and which element is the child would be, and how to create the elements.
+  - The difficulty in this lab is in finding the values of the last row, which is the part that took the most time, and in the dom part, it was easier today to deal with it than yesterday.
 
  * What observations or questions do you have about what you’ve learned so far?
 
-   - when creating a work hours array as a global array, it did not work in the object until moving it to the object and make it a local array. so why it did not work in the first situation.
+   - I have no question today.
 
    * How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
 
-     - It took 9 hours of continuous work until I figured out how to create an array of random numbers inside the object, I expected that it would take a lot of time, but not 9 hours !! 
+     - I spent 7 hours working on the lab, and as I mentioned earlier, the most time was on the part which finding the total Cookies per hour in all stores, and I expected that it would take a lot of time.
