@@ -6,7 +6,25 @@ table,th,td {
     border: solid black 1px;
     border-collapse: collapse;
     padding: 10px;
-  } 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkcyan;
+    color: black;
+
+  }
+  header li {
+    float: right;
+  }
+  header #hom1 {
+    float: right;
+  }
+  header #home1 #home{
+    text-decoration: none;
+  }
+  /* table,th {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+  }  */
 
   body{
     font-family: 'Times New Roman', Times, serif;
@@ -16,6 +34,8 @@ table,th,td {
 header{
   background-color: rgb(153,204,255);
   height: 110px;
+  font-family: 'New Tegomin', serif;
+  height:110px;
 }
 
 header img{
@@ -33,17 +53,21 @@ header h1{
 header nav {
   text-decoration: none;
   width: 25%;
-  float: right;
-  padding-top: 10px;
-  padding-left: 40px;
+  /* float: right; */
+  /* padding-top: 10px; */
+  /* padding-left: 40px; */
+  width: 100%;
 }
 header nav ul{
-  position: relative;
+  /* position: relative; */
+  float: right;
+  padding-right: 5px;
+  padding-top: 9px;
 
 }
 header nav ul li{
   display: inline-block;
-  padding: 5px;
+  padding: 6px;
   
 }
 header nav ul li a{
@@ -86,6 +110,7 @@ main #para p{
   text-align: justify;
   padding: 50px;
   color: rgb(251,126,0) ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   
 }
 footer{
